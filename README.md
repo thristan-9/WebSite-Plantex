@@ -1,2 +1,1 @@
-# WebSite-Plantex
-Responsive website fictitious company
+# KS-SocialMedia
